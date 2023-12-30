@@ -1,0 +1,12 @@
+ * Javlonbek Khamzaev
+ * jkhamzae@u.rochester.edu
+ * 1 December 2023
+ * HW6
+
+* Self-review
+The code overall is well organized and follows all the instructions as described including the program initializes a fleet of vehicles, takes input for their details, and then processes contracts by determining the most profitable vehicle option for each contract. The total profit for all contracts is displayed at the end. The program continues to take input until the "quit" token is encountered.
+It definitely needs some improvements in terms of style but overall it is successfully able to output correctly when example inputs inserted.
+
+* Metadata
+Overall it took 9 hours to finalize the code but initially had issues with breaking the loop when "quit" token is inserted as it interrupted the correct calculations.
+ALso there a big issue was to output the Total Profit as the code would break down before its output due to the quit token wasn't recognized.
